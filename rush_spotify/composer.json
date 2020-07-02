@@ -1,0 +1,10 @@
+{
+    "name": "lukas/rush_spotify",
+    "authors": [
+        {
+            "name": "Lukas",
+            "email": "lukas.bouhlel@epitech.eu"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,10 @@
+{
+    "name": "lukas/back-end",
+    "authors": [
+        {
+            "name": "Lukas",
+            "email": "lukas.bouhlel@epitech.eu"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+label {
+  margin : 9px 0;
+}
+
+input{
+  margin :0 35px;
+
+}
+
+#button{
+  border-radius: 3px;
+
+}
+
+footer{
+  background-color: #343a40!important;
+  color: white!important;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.navbar-brand{
+  color: #1DB954!important;
+}
+
+.container a {
+  color: #343a40!important;
+}
+.container a:hover {
+  transition: color ease .2s;
+  color: #1DB954!important;
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
